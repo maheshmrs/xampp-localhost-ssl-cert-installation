@@ -142,9 +142,9 @@ XAMPP installation folder --> C:\XAMPP unless you've selected different path. C:
   3. You can run the above batch file by double cliking on it.
   5. This batch file would ask for Domain name you can enter your web site URL e.g. myapplicationname.com.
 
- <img width="661" alt="image" src="https://github.com/maheshmrs/xampp-localhost-ssl-cert-installation/assets/17200170/7ac51b98-a252-409a-96ea-13742c6fd052">
+       <img width="500" alt="image" src="https://github.com/maheshmrs/xampp-localhost-ssl-cert-installation/assets/17200170/7ac51b98-a252-409a-96ea-13742c6fd052">
 
-> **Warning**<br>
+       > **Warning**<br>
 If your inserted a value in above screen doesn't match your domain i.e. site URL then SSL certificate will not work!
      
   7. It would create a folder in with URL name in C:\xampp\myapplicationname.com folder name. This folder would contain files displayed in below image.
